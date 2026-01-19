@@ -15,7 +15,4 @@ format:
 # Link for the presentation
 
 
-My link is [here](Presentazione_psicostat.html)
-
-
-
+My link is [here](Presentazione_psicostat.html).
