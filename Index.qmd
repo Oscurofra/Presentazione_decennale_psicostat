@@ -1,0 +1,21 @@
+---
+title: "Presentazione decennale psicostat"
+format:
+  html:
+    self-contained: true     
+    toc: true                   
+    toc-title: My contents   
+    toc-location: left
+    page-layout: full
+    theme:
+     light: minty
+     dark: superhero
+---
+
+# Link for the presentation
+
+
+My link is [here](Presentazione_psicostat.html)
+
+
+
