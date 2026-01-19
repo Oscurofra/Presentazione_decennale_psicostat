@@ -157,7 +157,7 @@ Sviluppare e validare due nuove scale di misura per valutare la credenza nei neu
 ::: {#refs}
 :::
 
-## Materiali & Contatti
+## Materiali & Contatti343
 
 La presentazione è disponibile su GitHub ([Oscurofra/Presentazione_decennale_psicostat](https://github.com/Oscurofra/Presentazione_decennale_psicostat))
   <br>
