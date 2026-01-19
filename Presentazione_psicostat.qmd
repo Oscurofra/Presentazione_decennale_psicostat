@@ -1,0 +1,171 @@
+---
+title: "Sviluppo e validazione di una scala di misura per valutare la credenza nei neuromiti tra gli insegnanti"
+author:
+- name: "Francesco Carabba"
+  email: "francesco.carabba@unibz.it"
+  affiliation: "Free University of Bolzano"
+- name: "Supervisor: Prof. Dr. Demis Basso"
+  email: "demis.basso@unibz.it"
+  affiliation: "Free University of Bolzano"
+- name: "Co-Supervisor: Ottavia M. Epifania, Ph.D."
+  email: "ottavia.epifania@unitn.it"
+  affiliation: "University of Trento"
+format: 
+  revealjs:
+    self-contained: true
+    scrollable: false           
+    footer: "Decennale Psicostat"
+    slide-number:  c/t
+    show-slide-number: all
+    theme: [serif, custom.scss]
+    echo: true
+    logo: "psicostat-logo_aggiornato.png"
+bibliography: references.bib
+csl: apa.csl
+---
+
+# Introduzione
+
+## I neuromiti
+
+Interpretazioni errate o distorte di ricerche scientifiche sul cervello, spesso usate per supportare affermazioni in ambito educativo o in altri contesti [@organisation2002understanding].
+
+::: {.callout-warning}
+"L'emisfero sinistro è quello logico mentre l'emisfero destro è quello creativo"
+
+:::
+
+::: {.callout-warning}
+"L'apprendimento dipende esclusivamente dalla crescita sinaptica durante la prima infanzia"
+:::
+
+## Misurare i neuromiti negli insegnanti
+
+Gli insegnanti svolgono un ruolo fondamentale nella società e spesso attingono alla loro comprensione del cervello e della
+mente nel loro lavoro quotidiano.
+
+::: {.callout-tip}
+**Credere ai neuromiti può influire sulla qualità dell'insegnamento.**
+:::
+
+## Sviluppare una nuova scala
+
+- Non esiste una scala di misura che abbia ricevuto un'appropriata validazione psicometrica (né in Italia né in altre nazioni).
+
+- Il questionario più utilizzato finora [@dekker2012neuromyths] presenta alcuni limiti al di là della mancata validazione:
+
+    - Valuta le convinzioni dei partecipanti utilizzando un formato di risposta sì/no.
+
+    - Valuta solo la conoscenza dichiarativa e non quella procedurale.
+
+# Obiettivo
+
+## Obiettivo {.hero}
+
+Sviluppare e validare due nuove scale di misura per valutare la credenza nei neuromiti tra gli insegnanti italiani: una a livello **procedurale** e una a livello **dichiarativo**.
+
+
+## Cinque neuromiti
+
+
+1) Apprendiamo meglio quando le informazioni sono presentate nella nostra **modalità sensoriale preferita** (visiva, uditiva o cinestetica)
+
+2) Usiamo solo il **10%** del nostro cervello
+
+3) **Ambienti iperstimolanti** e caotici favoriscono lo sviluppo cerebrale nella prima infanzia
+
+4) In alcuni individui è **predominante l'emisfero destro** (logico) mentre in altri il **sinistro** (creativo)
+
+5) Ci sono **diverse intelligenze**
+
+
+# Studio preliminare
+
+## Studio preliminare
+
+- Sviluppo e validazione di una scala di misura per valutare la conoscenza procedurale dei processi di **memoria** e **apprendimento**.
+
+- 60 item a scelta multipla (3 opzioni errate e 1 corretta) a partire dai manuali sulla memoria e sull'apprendimento di @baddeley2021memoria e di @cornoldi2018processi. 
+
+- Campione di 600 insegnanti italiani.
+
+- EFA e CFA per indagare la validità di costrutto.
+
+
+## Esempio item scala  preliminare
+
+*La classe deve apprendere un capitolo di un manuale per il prossimo compito in classe. Dopo aver letto il capitolo una volta cosa conviene fare?*
+
+1) *Cercare di richiamare alla mente il contenuto del capitolo.*
+2) *Tornare indietro e ristudiare l'intero capitolo.*
+3) *Tornare indietro e ristudiare alcune parti del capitolo.*
+4) *Sintetizzare il contenuto del capitolo.*
+
+
+# Studio principale
+
+## Scala procedurale
+
+- 25 item vengono selezionati dalla scala precedentemente validata.
+- Al posto di un distrattore, un **neuromito** viene inserito (5 item per ciascuno dei 5 neuromiti).
+- Questi item vengono combinati con i rimanenti item non modificati.
+
+## Esempio item scala procedurale
+
+*La classe deve apprendere un capitolo di un manuale per il prossimo compito in classe. Dopo aver letto il capitolo una volta cosa conviene fare?*
+
+1) *Cercare di richiamare alla mente il contenuto del capitolo.*
+2) *Tornare indietro e ristudiare l'intero capitolo.*
+3) *Ascoltare una registrazione del capitolo per chi ha uno stile di apprendimento uditivo.*
+4) *Sintetizzare il contenuto del capitolo.*
+
+
+## Scala dichiarativa
+
+- Le 25 opzioni di risposta della scala procedurale contenenti un neuromito vengono trasformate in item.
+- 5 affermazioni vere sui processi di memoria e apprendimento vengono aggiunte.
+- Livello di accordo su una scala Likert a 5 punti.
+
+## Esempio item scala dichiarativa
+
+*Ascoltare delle informazioni è una tecnica di apprendimento maggiormente efficace per chi ha uno stile di apprendimento uditivo.*
+
+![](Scala_Likert_bg.png){.absolute top=200 left=50 }
+
+## Validazione delle due scale
+
+- Campione di 400 insegnanti italiani.
+
+- ![](CFA_5fattori_bg.drawio.png){height="150"}
+
+- ![](CFA_1fattore_bg.drawio.png){height="150"}
+
+- Associazione tra conoscenza dei processi di memoria e apprendimento e adesione ai neuromiti → regressione multinomiale (livello procedurale) e SEM (livello dichiarativo)
+
+
+
+## Bibliografia
+
+::: {#refs}
+:::
+
+## Materiali & Contatti
+
+The presentation is available on GitHub at (metti il link)
+  <br>
+  <br>
+Questions and feedbacks <francesco.carabba@unibz.it>
+
+![](Logo_unibz.png){.absolute top=300 left=100 height=200}
+![](psicostat-logo_aggiornato.png){.absolute top=300 left=600 height=200}
+
+
+# Materiali supplementari
+
+## CFA con 5 fattori latenti (item neuromito) 
+
+![](CFA_5fattori_bg.drawio.png)
+
+## CFA con 1 fattore latente (item memoria e apprendimento)
+
+![](CFA_1fattore_bg.drawio.png)
